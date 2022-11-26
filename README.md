@@ -40,10 +40,10 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&logo=DataGrip&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&logo=DataGrip&logoColor=white)
 --
 ### Another Things
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&logo=Raspberry-Pi&logoColor=white)
