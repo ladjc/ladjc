@@ -14,7 +14,7 @@
 ### I'm currently a Database student and here you'll find some of my projects on IoT, Data Analytics and other things.
 ### So welcome!
 
---
+---
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladjc&theme=vision-friendly-dark)<br>
