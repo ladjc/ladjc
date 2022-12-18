@@ -17,8 +17,8 @@
 ---
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladjc&theme=vision-friendly-dark)<br>
-![Luiz github stats](https://github-readme-stats.vercel.app/api?username=ladjc&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladjc&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladjc&show_icons=false&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
