@@ -14,19 +14,7 @@
 ### I'm currently a Database student and here you'll find some of my projects on IoT, Data Analytics and other things.
 ### So welcome!
 
----
-
-<br>
-
-### <table>
-###    <tr>
-##         <th>GitHub Stats</th>
-##         <th>Skils</th>
-###    </tr>
-###    <tr>
-###    </tr>
-### </table>
-
+--
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladjc&theme=vision-friendly-dark)<br>
@@ -47,7 +35,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=oracle&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 
 ### IDE's and DevOps
